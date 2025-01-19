@@ -1,0 +1,17 @@
+========================================
+           MINESWEEPER - HELP
+========================================
+
+                Controls:
+
+-  W:       Move cursor up.
+-  A:       Move cursor left.
+-  S:       Move cursor down.
+-  D:       Move cursor right.
+-  Space:   Reveal the selected cell.
+-  F:       Flag/unflag the selected cell.
+-  Q:       Quit the game.
+
+========================================
+ Press any key to close help page . . .
+========================================
